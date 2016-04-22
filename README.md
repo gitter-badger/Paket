@@ -6,6 +6,11 @@
 
 # Paket
 
+[![Join the chat at https://gitter.im/mlidbom/Paket](https://badges.gitter.im/mlidbom/Paket.svg)](https://gitter.im/mlidbom/Paket?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
+[![Join the chat at https://gitter.im/fsprojects/Paket](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/fsprojects/Paket?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+[![Twitter](https://img.shields.io/badge/Twitter-PaketManager-blue.svg)](https://twitter.com/PaketManager)
+
 A package dependency manager for .NET with support for NuGet packages and GitHub repositories.
 
 ## Why Paket?
@@ -27,6 +32,7 @@ For more reasons see the [FAQ][10].
 
  - [Source code][1]
  - [Documentation][2]
+ - [Getting started guide](http://fsprojects.github.io/Paket/getting-started.html)
  - Download [paket.exe][3]
  - Download [paket.bootstrapper.exe][3]
 
@@ -43,7 +49,7 @@ For more reasons see the [FAQ][10].
  - Run `build.cmd` (`build.sh` on Mono) to make sure all tests are still passing.
  - Send a Pull Request.
 
-If you want to contribute to the [docs][2] then please the modify markdown files in `/docs/content` and send a pull request.
+If you want to contribute to the [docs][2] then please modify the markdown files in `/docs/content` and send a pull request.
 Note, that short description and syntax for each command is generated automatically from the `Paket.Commands` module.
 
 ## License
@@ -59,7 +65,7 @@ The [MIT license][6]
 - [@isaacabraham](https://github.com/isaacabraham)
 - [@theimowski](https://github.com/theimowski)
 
-The default maintainer account for projects under "fsprojects" is [@fsgit](https://github.com/fsgit) - F# Community Project Incubation Space (repo management)
+The default maintainer account for projects under "fsprojects" is [@fsprojectsgit](https://github.com/fsprojectsgit) - F# Community Project Incubation Space (repo management)
 
  [1]: https://github.com/fsprojects/Paket/
  [2]: http://fsprojects.github.io/Paket/
